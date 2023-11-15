@@ -64,6 +64,7 @@ a. Q2: Do the instruments agree with each other? **Kinda**
 |Fluke DMM|-----|-----|3.6Vrms|
  
 a. Q3: Do the instruments agree? **Kinda**
+
 Change the frequency and amplitude of the generated sinusoidal and observe what happens in the oscilloscope and DMM.
 
 *Objective 2: Learn how to use GitHub for collaboration and to post your report.*
