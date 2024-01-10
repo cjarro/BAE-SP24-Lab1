@@ -36,3 +36,15 @@ void recvWithEndMarker() {
     }
 }
 ```
+Also I can make **bold** and *emphatic* statements and add tables like this:
+
+| Variable | Value |
+|---|---|
+|   V      | 5 V   |
+| R        | 1 k&Omega; |
+| I        | 5 mA  |
+
+Check out these links:
+[Link for images](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content)
+[Link for code](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
+[Link for tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
