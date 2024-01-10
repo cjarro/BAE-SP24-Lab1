@@ -8,7 +8,7 @@ This report includes text and also figures that I linked from my repository.
 Like this:
 ![A test image](https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg)
 
-Or perhaps a nicer smaller, centered image like this:
+Or perhaps a nicer smaller, centered image like this (using html):
 
 <p align="center">
   <img src=https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg width=50%>
