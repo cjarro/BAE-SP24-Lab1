@@ -8,7 +8,7 @@ Also I can include math functions like this:
 
 $$V(V) = I(A)*R(&Omega;)$$
 
-$$P(W) = I(A)^2*R(&Omega;)$$
+$$P = I^2*R$$
 
 Also I have to include code like this:
 
