@@ -74,5 +74,5 @@ Did the Github Worked?
 # Discussion
 Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
 
-#Conclusion
+# Conclusion
 This conclusion was written by my collaborator.
